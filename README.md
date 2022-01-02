@@ -24,6 +24,10 @@ La apk generada se guardara en la siguiente ruta:
 La aplicación funcionando seria la siguiente:
 ![image](https://user-images.githubusercontent.com/56648687/147866031-c761ab30-655b-453a-909c-41556c763e46.png)
 
- 
+
+
+
+la aplicacion de angular y react estan especificadas en la ramas de este proyecto:
+master y RACET-APP-GALLERY
 
 
