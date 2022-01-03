@@ -49,7 +49,7 @@ La aplicación funcionando seria la siguiente:
 
 
 
-La aplicacion de angular está en la rama:
+La aplicacion de angular está en la rama: https://github.com/chrispaul20191610/DeberAPKAngular/tree/master
 
 
 
@@ -95,7 +95,7 @@ Aplicación funcionando en el celular.
 ![image](https://user-images.githubusercontent.com/66235614/147900772-633c8b7e-e89b-4a35-8c17-17ead942a6a0.png)
 
 
-La aplicación de react está en la rama : https://github.com/chrispaul20191610/DeberAPKAngular/tree/REACT-PHOTO-GALLERY
+La aplicación de React está en la rama : https://github.com/chrispaul20191610/DeberAPKAngular/tree/REACT-PHOTO-GALLERY
 
 
 
