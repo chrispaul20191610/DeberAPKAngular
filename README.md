@@ -59,8 +59,7 @@ La aplicacion de angular está en la rama:
 Se trabaja con la aplicación previamnete elaborada llamada photo-gallery con react.
 
 Con el comando ionic serve - lab iniciamos el proyecto en el navegador.
-
-![image](https://user-images.githubusercontent.com/66235614/147899655-4513d0f4-4cee-48aa-930b-a0648ed042ae.png)
+![image](https://user-images.githubusercontent.com/66235614/147900848-91f59f17-7a39-4ae9-9675-f344416dabe0.png)
 
 Para el deploy de la aplicacion photo-gallery en React ejecutamos el comando ionic build.
 
