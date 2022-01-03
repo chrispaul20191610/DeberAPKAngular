@@ -34,11 +34,14 @@ Finalmente abrirmos el Android estudio y generamos las apk en la parte de buid d
 ![image](https://user-images.githubusercontent.com/66235614/147896633-114677f1-e22f-4b96-a6b4-efe6524c1171.png)
 
  
-La apk generada se guardara en la siguiente ruta:
+La apk y bundle generada se guardara en la siguiente ruta:
+
+![image](https://user-images.githubusercontent.com/66235614/147896712-db01220f-d0a7-4348-94c5-72b9cce467d2.png)
 
 ![image](https://user-images.githubusercontent.com/56648687/147866028-8e59cb2a-a501-4e69-a8c0-7d09b674f438.png)
 
- 
+![image](https://user-images.githubusercontent.com/66235614/147896726-dcfc1a2e-d172-4061-bfac-a944ecc8b077.png)
+
 La aplicación funcionando seria la siguiente:
 
 ![image](https://user-images.githubusercontent.com/66235614/147896619-3b907944-d588-4bdd-aae3-39806b4c0734.png)
@@ -47,6 +50,6 @@ La aplicación funcionando seria la siguiente:
 
 
 La aplicacion de angular está en la rama Master.
-La aplicación de recat está en la rama REACT-APP-GALLERY
+La aplicación de react está en la rama REACT-APP-GALLERY
 
 
