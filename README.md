@@ -5,6 +5,8 @@ Integrantes:
 Nathaly Bermeo
 Christian Llumiquinga
 
+# Proyecto de Angular
+
 Como primer punto empezamos a trabajar en la aplicación de Angular.
 
 Una ves concluida esta y probamos que todo funcione bien con ionic serve.
@@ -28,6 +30,8 @@ Finalmente abrirmos el Android estudio y generamos las apk en la parte de buid d
 
 ![image](https://user-images.githubusercontent.com/56648687/147866024-0bc3a59a-1445-48aa-b589-29c3f2435496.png)
 
+![image](https://user-images.githubusercontent.com/66235614/147896633-114677f1-e22f-4b96-a6b4-efe6524c1171.png)
+
  
 La apk generada se guardara en la siguiente ruta:
 
@@ -36,7 +40,7 @@ La apk generada se guardara en la siguiente ruta:
  
 La aplicación funcionando seria la siguiente:
 
-![image](https://user-images.githubusercontent.com/56648687/147866031-c761ab30-655b-453a-909c-41556c763e46.png)
+![image](https://user-images.githubusercontent.com/66235614/147896619-3b907944-d588-4bdd-aae3-39806b4c0734.png)
 
 
 
