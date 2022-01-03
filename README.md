@@ -34,7 +34,7 @@ Finalmente abrirmos el Android estudio y generamos las apk en la parte de buid d
 ![image](https://user-images.githubusercontent.com/66235614/147896633-114677f1-e22f-4b96-a6b4-efe6524c1171.png)
 
  
-La apk y bundle generada se guardara en la siguiente ruta:
+La apk y bundle generadas se guardan en la siguiente ruta:
 
 ![image](https://user-images.githubusercontent.com/66235614/147896712-db01220f-d0a7-4348-94c5-72b9cce467d2.png)
 
