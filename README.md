@@ -56,7 +56,7 @@ La aplicacion de angular está en la rama: https://github.com/chrispaul20191610/
 
 # Proyecto de React
 
-Se trabaja con la aplicación previamnete elaborada llamada photo-gallery con react.
+Se trabaja con la aplicación previamente elaborada llamada photo-gallery con react.
 
 Con el comando ionic serve - lab iniciamos el proyecto en el navegador.
 
