@@ -3,6 +3,7 @@
 Integrantes:
 
 Nathaly Bermeo
+
 Christian Llumiquinga
 
 # Proyecto de Angular
